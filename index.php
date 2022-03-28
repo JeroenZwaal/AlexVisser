@@ -23,6 +23,7 @@
 </head>
 
 <body>
+<?php require_once("header.php") ?>
 
   <!-- Add your site or application content here -->
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
