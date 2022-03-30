@@ -1,5 +1,5 @@
-<div class"navbar">
-    <div class"wrapper">
+<div class="navbar">
+    <div class="wrapper">
     <nav>
         <a href="index.php">Home</a>
         <a href="karretjes.php">Karretjes</a>

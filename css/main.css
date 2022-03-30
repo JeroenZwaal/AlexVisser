@@ -261,23 +261,25 @@ textarea {
   }
 }
 /* Header */
-.navbar, nav{
-  background-color: blue ;
+.navbar nav{
   display: flex;
   align-items: center;
   padding: 10px;
 }
-.navbar, img{
+.navbar img{
   width: 100px;
   margin-left: 470px ;
 }
-.navbar, a{
+.navbar{
+  background-color: blue ;
+}
+.navbar a{
   padding: 20px;
   color:yellow ;
   text-decoration: none;
   font-size: 20px;
 }
-.navbar, nav{
+.navbar nav{
   display: flex;
   justify-content:  center;
 }
@@ -290,7 +292,8 @@ textarea {
   width: 968px;
 }
 /* </header */
+/* karretjes */
 
-
+/* </karretjes */
 
 
