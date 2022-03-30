@@ -284,7 +284,8 @@ textarea {
   justify-content:  center;
 }
 .footerText{
-  color: blue;
+  background-color: blue;
+  color: yellow;
 }
 
 .wrapper{
@@ -295,5 +296,6 @@ textarea {
 /* karretjes */
 
 /* </karretjes */
+
 
 
