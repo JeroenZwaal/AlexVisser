@@ -2,7 +2,8 @@
     <nav>
     <img src="img/placeholder.png" alt="Logo">
         <a href="index.php">Home</a>
-        <a href="">Karretjes</a>
-        <a href="">Contact</a>
+        <a href="karretjes.php">Karretjes</a>
+        <a href="cantact.php">Contact</a>
+        <a href="constructie.php">contstructie</a>
     </nav>
 </div>
