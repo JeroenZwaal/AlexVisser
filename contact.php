@@ -29,9 +29,13 @@
   </div>
   <div class="wrapper">
     <div class="form">
-        <h2>Contact</h2>
+      
+
 
         <form action="register.php" method="post">
+          <div class="form-group">
+            <h2>Contact</h2>
+          </div>
           <div class="form-group">
             <label for="userName">Username:</label>
             <input type="text" name="userName">
@@ -45,8 +49,9 @@
             <input type="text" name="titel">
           </div>
           <div class="form-group">
+            <label for="textarea">Message:</label>
             <textarea id="textarea" name="textarea" rows="4" cols="50">
-                Type hier uw bericht...
+                Type message...
             </textarea>
           </div>
           <div class="form-group">
