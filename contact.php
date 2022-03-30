@@ -29,9 +29,6 @@
   </div>
   <div class="wrapper">
     <div class="form">
-      
-
-
         <form action="register.php" method="post">
           <div class="form-group">
             <h2>Contact</h2>
