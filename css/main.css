@@ -260,20 +260,16 @@ textarea {
     page-break-after: avoid;
   }
 }
+/* Header */
 .navbar, nav{
   background-color: blue ;
   display: flex;
   align-items: center;
   padding: 10px;
-
-}
-.navbar{
-  display: inline;
-  width: 70%;
 }
 .navbar, img{
   width: 100px;
-  margin-left: 400px ;
+  margin-left: 470px ;
 }
 .navbar, a{
   padding: 20px;
@@ -294,6 +290,7 @@ textarea {
   margin: 0 auto;
   width: 968px;
 }
+/* </header */
 
 
 
