@@ -260,40 +260,42 @@ textarea {
     page-break-after: avoid;
   }
 }
-.navbar, nav{
-  background-color: blue ;
+/* Header */
+.navbar nav{
   display: flex;
   align-items: center;
   padding: 10px;
-
+}
+.navbar img{
+  width: 100px;
+  margin-left: 470px ;
 }
 .navbar{
-  display: inline;
-  width: 70%;
+  background-color: blue ;
 }
-.navbar, img{
-  width: 100px;
-  margin-left: 400px ;
-}
-.navbar, a{
+.navbar a{
   padding: 20px;
   color:yellow ;
   text-decoration: none;
   font-size: 20px;
 }
-.navbar, nav{
+.navbar nav{
   display: flex;
   justify-content:  center;
 }
 .footerText{
-  color: blue;
+  background-color: blue;
+  color: yellow;
 }
 
 .wrapper{
   margin: 0 auto;
   width: 968px;
 }
+/* </header */
+/* karretjes */
 
+/* </karretjes */
 
 
 
