@@ -270,7 +270,6 @@ textarea {
 .navbar{
   display: inline;
   width: 70%;
-  margin: 0 auto;
 }
 .navbar, img{
   width: 100px;
@@ -282,7 +281,7 @@ textarea {
   text-decoration: none;
   font-size: 20px;
 }
-navbar, nav{
+.navbar, nav{
   display: flex;
   justify-content:  center;
 }
