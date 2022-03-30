@@ -277,6 +277,13 @@ textarea {
 .navbar, a{
   padding: 20px;
 }
+navbar, nav{
+  display: flex;
+  justify-content:  end;
+}
+.footerText{
+  color: blue;
+}
 
 
 
