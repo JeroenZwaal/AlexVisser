@@ -279,6 +279,9 @@ navbar, nav{
   display: flex;
   justify-content:  end;
 }
+.footerText{
+  color: blue;
+}
 
 
 
