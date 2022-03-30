@@ -286,13 +286,15 @@ textarea {
   justify-content:  center;
 }
 .footerText{
-  color: blue;
+  background-color: blue;
+  color: yellow;
 }
 
 .wrapper{
   margin: 0 auto;
   width: 968px;
 }
+
 
 
 
