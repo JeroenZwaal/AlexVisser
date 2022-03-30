@@ -285,7 +285,10 @@ navbar, nav{
   color: blue;
 }
 
-
+.wrapper{
+  margin: 0 auto;
+  width: 968;
+}
 
 
 
