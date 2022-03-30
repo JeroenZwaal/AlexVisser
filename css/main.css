@@ -265,6 +265,7 @@ textarea {
   display: flex;
   align-items: center;
   padding: 10px;
+
 }
 .navbar{
   display: inline;
@@ -273,13 +274,17 @@ textarea {
 }
 .navbar, img{
   width: 100px;
+  margin-left: 400px ;
 }
 .navbar, a{
   padding: 20px;
+  color:yellow ;
+  text-decoration: none;
+  font-size: 20px;
 }
 navbar, nav{
   display: flex;
-  justify-content:  end;
+  justify-content:  center;
 }
 .footerText{
   color: blue;
