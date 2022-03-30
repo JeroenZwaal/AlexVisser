@@ -24,9 +24,12 @@
 
 <body>
 <?php require_once("header.php") ?>
+  <div class="imageContact">
+    <img src="img/contact.jpg">
+  </div>
   <div class="wrapper">
     <div class="form">
-        <h2>Formulier</h2>
+        <h2>Contact</h2>
 
         <form action="register.php" method="post">
           <div class="form-group">
@@ -38,15 +41,16 @@
             <input type="email" name="email">
           </div>
           <div class="form-group">
-            <label for="password">Password:</label>
-            <input type="password" name="password">
+            <label for="text">Titel:</label>
+            <input type="text" name="titel">
           </div>
           <div class="form-group">
-            <label for="password2">Type password again:</label>
-            <input type="password" name="password2">
+            <textarea id="textarea" name="textarea" rows="4" cols="50">
+                Type hier uw bericht...
+            </textarea>
           </div>
           <div class="form-group">
-            <input type="submit" value="Send Registerform">
+            <input type="submit" value="Submit">
           </div>
         </form>
       </div>
