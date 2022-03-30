@@ -260,4 +260,27 @@ textarea {
     page-break-after: avoid;
   }
 }
+navbar, nav{
+  background-color: blue ;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+navbar{
+  display: inline;
+}
+navbar, img{
+  width: 100px;
+}
+navbar, a{
+  padding: 20px;
+}
+navbar, nav{
+  display: flex;
+  justify-content:  end;
+}
+
+
+
+
 
