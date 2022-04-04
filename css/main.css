@@ -286,6 +286,12 @@ textarea {
 .footerText{
   background-color: blue;
   color: yellow;
+  
+}
+.footerText p{
+  display: flex;
+  padding: 30px;
+  justify-content: center;
 }
 
 .wrapper{
