@@ -418,6 +418,7 @@ textarea {
 .wrapper .form{
   display: flex;
   justify-content: center;
+  margin-bottom: 200px;
 }
 .form{
   display: flex;
