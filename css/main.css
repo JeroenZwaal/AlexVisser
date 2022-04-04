@@ -448,3 +448,11 @@ textarea {
 }
 
 
+/*================================Constructie============================*/
+.imageConstructie img{
+  width: 100%;
+  height: 400px;
+}
+.tekstConstructie{
+  margin-bottom: 200px;
+}
