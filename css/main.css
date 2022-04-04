@@ -287,14 +287,17 @@ textarea {
   background-color: blue;
   color: yellow;
 }
-
 .wrapper{
   margin: 0 auto;
   width: 968px;
 }
 /* </header */
-/* karretjes */
 
+/* karretjes */
+.kar img{
+  width: 1920px;
+  height: 300px;
+}
 /* </karretjes */
 
 
