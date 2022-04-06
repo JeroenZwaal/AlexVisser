@@ -317,7 +317,9 @@ textarea {
   display: flex;
   margin-top: 20px;
 }
-  
+.karretje img{
+  width: 300px;
+}
 /* </karretjes */
 
 
