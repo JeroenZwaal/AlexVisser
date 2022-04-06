@@ -28,7 +28,8 @@
 
 <body>
 <?php require_once("header.php") ?>
-    
+  <img class="logo"src="img/alexlogo.png" alt="logo">  
+
   <!-- Add your site or application content here -->
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
