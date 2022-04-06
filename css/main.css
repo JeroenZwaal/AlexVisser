@@ -310,10 +310,14 @@ textarea {
 }
 .karretje p{
   border: 3px solid yellow ;
+  margin-right: 30px;
+
 }
-.karretje img{
-  display: inline;
+.karretje{
+  display: flex;
+  margin-top: 20px;
 }
+  
 /* </karretjes */
 
 
