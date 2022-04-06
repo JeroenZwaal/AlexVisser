@@ -260,6 +260,10 @@ textarea {
     page-break-after: avoid;
   }
 }
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+*{
+  font-family: 'Secular One', sans-serif;
+}
 /* Header */
 .navbar nav{
   display: flex;
@@ -444,7 +448,9 @@ textarea {
   margin-top: 10px;
   padding-bottom: 20px;
   border: 10px solid blue;
-  box-shadow: 10px 15px lightblue;
+/*  box-shadow: 10px 15px lightblue;
+*/ animation: mymove 5s infinite;
+
 
 
 }
@@ -458,6 +464,10 @@ textarea {
   display: flex;
   justify-content: center;
   resize: none;
+}
+
+@keyframes mymove{
+  50% {box-shadow: 10px 20px 30px blue;}
 }
 
 .form-group #submit{
