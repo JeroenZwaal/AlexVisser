@@ -30,9 +30,11 @@
 <?php require_once("header.php") ?>
   <div class="wrapper">
     <div class="mainPage">
-      <img src="img/placeholder.png" alt="placeholder">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc sed id semper risus in. Erat pellentesque adipiscing commodo elit at. Euismod lacinia at quis risus. Ultricies mi quis hendrerit dolor magna eget. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Viverra vitae congue eu consequat ac felis. Sit amet justo donec enim diam. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Tincidunt dui ut ornare lectus. Ultricies tristique nulla aliquet enim tortor at auctor. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. Risus viverra adipiscing at in tellus integer feugiat. Pulvinar sapien et ligula ullamcorper malesuada proin. Nec feugiat nisl pretium fusce id velit. Ornare massa eget egestas purus viverra accumsan in nisl.</p>
+      <img src="img/hoofdpaginaimg1.jpg" alt="placeholder">
+      <p>Onze nieuwe achtbaantechniek heet MagnaDrive. Door middel van een aantal onderdelen die ons ontwikkelteam uitgevonden heeft, kunnen we een achtbaan produceren die tot 5-10% sneller kan gaan dan de snelste achtbaan tot nu toe, enkele graden scherpte kan toevoegen aan bochten, en ook nog langer meegaat dan achtbanen gemaakt van gebruikelijke onderdelen. Het mooiste is nog dat de onderdelen niet veel duurder zullen zijn dan onze concurrentie. Vanwege de scherpere bochten is in veel gevallen ook de achtbaan compacter te maken, wat ook weer ruimte vrijmaakt voor andere attracties.</p>
+
     </div>
+    <img class="mainPageImg2" src="img/hoofdpaginaimg1.jpg" alt="placeholder">
   </div>
 
   <!-- Add your site or application content here -->
