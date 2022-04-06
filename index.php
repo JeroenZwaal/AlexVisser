@@ -19,11 +19,20 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
+
   <meta name="theme-color" content="#fafafa">
 </head>
 
 <body>
 <?php require_once("header.php") ?>
+  <div class="wrapper">
+    <div class="mainPage">
+      <img src="img/placeholder.png" alt="placeholder">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc sed id semper risus in. Erat pellentesque adipiscing commodo elit at. Euismod lacinia at quis risus. Ultricies mi quis hendrerit dolor magna eget. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Viverra vitae congue eu consequat ac felis. Sit amet justo donec enim diam. Sit amet mattis vulputate enim nulla aliquet porttitor lacus. Tincidunt dui ut ornare lectus. Ultricies tristique nulla aliquet enim tortor at auctor. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. Risus viverra adipiscing at in tellus integer feugiat. Pulvinar sapien et ligula ullamcorper malesuada proin. Nec feugiat nisl pretium fusce id velit. Ornare massa eget egestas purus viverra accumsan in nisl.</p>
+    </div>
   </div>
 
   <!-- Add your site or application content here -->
