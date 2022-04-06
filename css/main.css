@@ -455,6 +455,11 @@ textarea {
 .form-group textarea{
   display: flex;
   justify-content: center;
+  resize: none;
+}
+
+.form-group #submit{
+  margin-top: 10px;
 }
 
 

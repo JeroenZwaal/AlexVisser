@@ -48,11 +48,10 @@
           <div class="form-group">
             <label for="textarea">Message:</label>
             <textarea id="textarea" name="textarea" rows="4" cols="50">
-                Type message...
             </textarea>
           </div>
           <div class="form-group">
-            <input type="submit" value="Submit">
+            <input id="submit" type="submit" value="Submit">
           </div>
         </form>
       </div>

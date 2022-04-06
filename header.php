@@ -5,7 +5,7 @@
         <a href="karretjes.php">Karretjes</a>
         <a href="contact.php">Contact</a>
         <a href="constructie.php">Constructie</a>
-        <img src="img/placeholder.png" alt="Logo">
+        <img src="img/alexvisser.png" alt="Logo">
     </nav>
     </div>
 </div>
