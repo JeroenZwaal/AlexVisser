@@ -24,8 +24,6 @@
 
 <body>
 <?php require_once("header.php") ?>
-<img src="img/placeholder.png" alt="placeholder">
-  <div class="wrapper"></div>
   </div>
 
   <!-- Add your site or application content here -->
