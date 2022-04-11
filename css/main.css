@@ -309,7 +309,7 @@ textarea {
 
 /* karretjes */
 .kar img{
-  width: 1920px;
+  width: 100%;
   height: 300px;
 }
 .karretje p{
@@ -323,9 +323,6 @@ textarea {
 }
 .karretje img{
   width: 300px;
-}
-.kar img{
-  width: 100%;
 }
 /* </karretjes */
 
