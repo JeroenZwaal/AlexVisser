@@ -29,7 +29,7 @@
 <body>
 <?php require_once("header.php") ?>
   <div class="kar">
-      <img src="img/karetjes.jpg" alt="placeholder">
+      <img src="img/POR PLA-II & SAM-I plaatje4.jpg" alt="placeholder">
       </div>
       
     <div class="wrapper">
