@@ -28,7 +28,7 @@
 <?php require_once("header.php") ?>
 <body>
   <div class="imageConstructie">
-    <img src="img/achtbaanconstructie.jpg">
+    <img src="img/POR PLA-II & SAM-I plaatje2.jpg">
   </div>
   <div class="wrapper">
     <div class="tekstConstructie">
