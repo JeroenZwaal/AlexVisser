@@ -323,6 +323,10 @@ textarea {
 .karretje img{
   width: 300px;
 }
+.kars img{
+  width: 300px;
+  padding-bottom: 300px;
+}
 /* </karretjes */
 
 .logo{

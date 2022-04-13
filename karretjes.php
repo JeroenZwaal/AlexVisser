@@ -35,7 +35,11 @@
     <div class="wrapper">
       <div class="karretje"> 
         <p>Met onze MagnaCarts die ook speciaal werken op onze nieuw ontwikkelde MagnaAlloy onderdelen, kan elk pretpark het chassis naar wens aanpassen. Wij hebben een frame ontwikkeld die wij zo klein mogelijk hebben gehouden, zodat de rest van de kar helemaal zelf door het team ontworpen en ontwikkeld kan worden. Ook leveren wij de digitale bestanden waar deze ontwerpen op gebaseerd kunnen worden, zodat het team zo snel mogelijk aan de slag kan gaan unieke ontwerpen te creëren. Omdat ook deze karretjes gebruik maken van MagnaAlloy, zijn ze dus ook bestand tegen de extra G-krachten die deze techniek mogelijk maakt. Zo zijn onze producten dus breed inzetbaar, en zorgen wij voor de beste vooruitgang in de achtbaantechniek van het afgelopen decennia.</p>
-        <img src="img/karrteje.jpg" alt="placeholder">
+        <img src="img/POR PLA-II & SAM-I plaatje9.jpg" alt="placeholder">
+      </div>
+      <div class="kars">
+        <img src="img/POR PLA-II & SAM-I plaatje8.jpg" alt="placeholder">
+        <img src="img/POR PLA-II & SAM-I plaatje7.jpg" alt="placeholder">
       </div>
   </div>   
   <!-- Add your site or application content here -->
